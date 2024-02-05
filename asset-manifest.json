@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-nomad/static/css/main.afe784a2.css",
-    "main.js": "/react-nomad/static/js/main.c65b8811.js",
+    "main.css": "/react-nomad/static/css/main.56d1faa3.css",
+    "main.js": "/react-nomad/static/js/main.0e495e14.js",
     "index.html": "/react-nomad/index.html",
-    "main.afe784a2.css.map": "/react-nomad/static/css/main.afe784a2.css.map",
-    "main.c65b8811.js.map": "/react-nomad/static/js/main.c65b8811.js.map"
+    "main.56d1faa3.css.map": "/react-nomad/static/css/main.56d1faa3.css.map",
+    "main.0e495e14.js.map": "/react-nomad/static/js/main.0e495e14.js.map"
   },
   "entrypoints": [
-    "static/css/main.afe784a2.css",
-    "static/js/main.c65b8811.js"
+    "static/css/main.56d1faa3.css",
+    "static/js/main.0e495e14.js"
   ]
 }
